@@ -1,11 +1,11 @@
-# Traso-Coffe
+# Clothing
 Website Static - Tugas Proyek Pemrograman Internet dan E-Commerce
 
 
 ## Website Information
 
 - Author : Aulia Salsabyla Baladewa
-- Name Website : Website E-Commerce Clothings
+- Name Website : Website E-Commerce Clothing
 - Created On : Maret - April 2022
 - Technology : HTML | CSS | Javascript
 
